@@ -1,7 +1,7 @@
-# PI DEV SMART SEA Project
-<div align="center" width="200px">
-  <img src="https://github.com/pi-dev-smart-sea/.github/assets/74665047/a0fc202d-d2a4-4e5f-a6b3-8ab0f8c1158e" alt="SMART SEA LOGO" title="SMART SEA LOGO"/> 
-</div>div>
+<h1 align="center">PI DEV SMART SEA Project</h1>
+<div align="center">
+  <img src="https://github.com/pi-dev-smart-sea/.github/assets/74665047/a0fc202d-d2a4-4e5f-a6b3-8ab0f8c1158e" alt="SMART SEA LOGO" title="SMART SEA LOGO" width="200px"/> 
+</div>
 
 ## Project Problem and Solution
 
